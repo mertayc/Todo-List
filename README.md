@@ -75,11 +75,6 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
    <br/>
    <br/>
 
-## 🔗 Links
-
-> ## Checkout the Website [Web Application](https://fullstack-todo-list-application.onrender.com)
->
-> ## Checkout the Application Demo Video [YouTube](https://youtu.be/2VyxSQAE5mo)
 
 <br/>
 
